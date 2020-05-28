@@ -23,10 +23,10 @@ Es importante que indiques la siguiente información:
 ```markdown
 #### Nombre completo (Apellido, Nombre)
 
-- [@TwitterHandle](http://twitter.com)
-- [Página web](http://www.examplewebsitelink.com)
-- Temas - Topic 1, Topic 2, Topic 3
-- Ubicación - City, State, Country
+- [@TwitterHandle](http://twitter.com/)
+- [Página web](http://www.site-ejemplo.com)
+- Temas - Tema 1, Tema 2, Tema 3
+- Ubicación - Ciudad, País
 - Idiomas además del español - Indicar cuales
 ```
 
