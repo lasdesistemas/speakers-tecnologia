@@ -14,7 +14,7 @@ Es importante que indiques la siguiente información:
 - Nombre y Apellido
 - Forma de contactarte (puede ser tus redes sociales, tu mail, tené en cuenta que esto es público)
 - Links de referencia (pueden ser tus redes sociales, link a charlas en youtube)
-- Temas (acá la idea es que resumas los temas sobre los que soles dar charlas)
+- Temas (acá la idea es que resumas los temas sobre los que soles dar charlas, ejemplo: IA, Arte y tecnología, Ciencia de datos)
 - Idioma (si te animás a dar charlas en inglés lo podeś aclarar)
 - Ubicación (de dónde sos y dónde residís)
 
@@ -26,7 +26,7 @@ Es importante que indiques la siguiente información:
 - [@TwitterHandle](http://twitter.com/)
 - [Página web](http://www.site-ejemplo.com)
 - Temas - Tema 1, Tema 2, Tema 3
-- Ubicación - Ciudad, País
+- Ubicación - Ciudad/Provincia, País
 - Idiomas además del español - Indicar cuales
 ```
 
