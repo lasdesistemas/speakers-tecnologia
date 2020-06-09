@@ -34,4 +34,8 @@ Es importante que indiques la siguiente información:
 
 ### Argentina
 
-
+- [@TwitterHandle](http://twitter.com/tefimiguel)
+- [Página web]()
+- Temas - Educación en tecnología, Inclusión tecnológica, Paradigmas de programación, TDD, Diseño de sistemas, Feminismo, Cyberdefensa
+- Ubicación - CABA, Argentina
+- Idiomas además del español - Inglés fluido
