@@ -46,4 +46,10 @@ Es importante que indiques la siguiente información:
 - Ubicación - CABA, Argentina
 - Idiomas además del español - Inglés fluido
 
-
+#### Munguía, Gabriela 
+- [Facebook](https://www.facebook.com/gabriela.munguia.92)
+- [Instagram](https://www.instagram.com/gabo_munguia/)
+- [YouTube](https://www.youtube.com/channel/UCHbRB7bii2AU6oMQHeBq4sA)
+- Temas - Arte, Ciencia y tecnología, Arte y Ecología, Bioarte, Comunicación interespecies
+- Ubicación - CABA, Argentina (oriunda de México)
+- Idiomas además del español - Inglés 
