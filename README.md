@@ -34,16 +34,23 @@ Es importante que indiques la siguiente información:
 
 ### Argentina
 
+#### Alonso, Florencia 
+- [@flordefuega](https://www.instagram.com/flordefuega)
+- [Mail](mailto:floralonsoflor@gmail.com)
+- Temas - Live Coding, arte y tecnologia
+- Ubicación - Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Botto, Ameleo Armando
 - [@amebotto](http://twitter.com/amebotto)
 - Temas - Health Informatics, Epidemiology, Public health, Gender rights, Trans identification
-- Ubicación - CABA/Buenos Aires, Argentina
+- Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés, Italiano
 
 #### Miguel, Estefanía
 - [@tefimiguel](http://twitter.com/tefimiguel)
 - Temas - Educación en tecnología, Inclusión tecnológica, Paradigmas de programación, TDD, Diseño de sistemas, Feminismo, Cyberdefensa
-- Ubicación - CABA, Argentina
+- Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés fluido
 
 #### Munguía, Gabriela 
@@ -51,5 +58,5 @@ Es importante que indiques la siguiente información:
 - [Instagram](https://www.instagram.com/gabo_munguia/)
 - [YouTube](https://www.youtube.com/channel/UCHbRB7bii2AU6oMQHeBq4sA)
 - Temas - Arte, Ciencia y tecnología, Arte y Ecología, Bioarte, Comunicación interespecies
-- Ubicación - CABA, Argentina (oriunda de México)
+- Ubicación - CABA, Buenos Aires, Argentina (oriunda de México)
 - Idiomas además del español - Inglés 
