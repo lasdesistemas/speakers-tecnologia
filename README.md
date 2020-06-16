@@ -60,3 +60,11 @@ Es importante que indiques la siguiente información:
 - Temas - Arte, Ciencia y tecnología, Arte y Ecología, Bioarte, Comunicación interespecies
 - Ubicación - CABA, Buenos Aires, Argentina (oriunda de México)
 - Idiomas además del español - Inglés 
+
+#### Shokida, Natsumi 
+- [YouTube](https://www.youtube.com/watch?v=5qcDHdYxueI)
+- [Mail](mailto:natsumi.shokida@gmail.com)
+- Temas - Desigualdad de género en datos
+- Ubicación Origen - Buenos Aires, Argentina
+- Ubicación Residencia - Luxemburgo, Esch-Sur-Alzette
+- Idiomas además del español - Inglés
