@@ -80,7 +80,7 @@ Es importante que indiques la siguiente información:
 #### Suarez, Romina
 
 - [@rowasc](http://twitter.com/rowasc)
-- [Blog personal](scrumbanfall.io)
+- [Blog personal](https://scrumbanfall.io)
 - [Charla en "The Lead Dev" - Austin 2019](https://www.youtube.com/watch?v=4KMsgTQ6EaM)
 - Temas - Trabajo remoto, management, open source.
 - Ubicación - Punta del Este/Maldonado, Uruguay
