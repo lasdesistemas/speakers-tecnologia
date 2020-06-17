@@ -41,6 +41,12 @@ Es importante que indiques la siguiente información:
 - Ubicación - Buenos Aires, Argentina
 - Idiomas además del español - Inglés
 
+#### Boca, Teresa
+- [@teresa_boca](https://www.instagram.com/teresa_boca)
+- [Mail](mailto:tereboca@gmail.com)
+- Temas - Ciencia de Datos - Estadística espacial 
+- Ubicación - Argentina
+
 #### Botto, Ameleo Armando
 - [@amebotto](http://twitter.com/amebotto)
 - Temas - Health Informatics, Epidemiology, Public health, Gender rights, Trans identification
