@@ -75,6 +75,22 @@ Es importante que indiques la siguiente información:
 - Ubicación Residencia - Luxemburgo, Esch-Sur-Alzette
 - Idiomas además del español - Inglés
 
+### Colombia
+
+#### Grijalba, Maya 
+- [@MayaKillari](http://twitter.com/MayaKillari)
+- [LinkedIn](https://www.linkedin.com/in/maya-grijalba/)
+- Temas - Comunidades de mujeres tech
+- Ubicación - Cali, Colombia
+
+### México
+
+#### Contreras, Angélica
+- [@AngieConter](https://twitter.com/AngieConter)
+- [LinkedIn](www.linkedin.com/in/angélica-contreras-883153133)
+- Temas - Seguridad Digital, Feminismo digital-ciberfeminismo, violencia digital, acompañamiento integral en casos de violencia digital, sexting seguro, empoderamiento digital, redes sociales para mujeres adultas, redes sociales para ongs
+- Ubicación - Aguascalientes, Mexico
+
 ### Uruguay
 
 #### Suarez, Romina
