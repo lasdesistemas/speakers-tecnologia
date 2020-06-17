@@ -87,7 +87,7 @@ Es importante que indiques la siguiente información:
 
 #### Contreras, Angélica
 - [@AngieConter](https://twitter.com/AngieConter)
-- [LinkedIn](www.linkedin.com/in/angélica-contreras-883153133)
+- [LinkedIn](https://www.linkedin.com/in/angélica-contreras-883153133)
 - Temas - Seguridad Digital, Feminismo digital-ciberfeminismo, violencia digital, acompañamiento integral en casos de violencia digital, sexting seguro, empoderamiento digital, redes sociales para mujeres adultas, redes sociales para ongs
 - Ubicación - Aguascalientes, Mexico
 
