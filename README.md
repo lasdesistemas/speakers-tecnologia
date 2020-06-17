@@ -1,6 +1,6 @@
 # Repositorio de Speakers
 Uno de los objetivos de nuestra comunidad es visibilizar el trabajo de mujeres cis, lesbianas, travestis, trans y no binaries y tambíen incentivarles a participar de conferencias, como la nuestra, FemITConf. Por eso nos parecía importante contar con un repositorio de speakers para poner en evidencia que somos varies, y que no hay excusas para no tener diversidad en una conferencia.
-Este trabajo es colaborativo, para sumarte al listado por favor mandanos un PR (pull request).
+Este trabajo es colaborativo, para sumarte al listado por favor mandanos un PR (pull request) o completá [el siguiente formulario](https://forms.gle/K4dm8FQpcW2pZAq28) y nosotres lo cargamos por vos.
 
 ## Algunas reglas 
 
