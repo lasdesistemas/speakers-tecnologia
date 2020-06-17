@@ -18,6 +18,8 @@ Es importante que indiques la siguiente información:
 - Idioma (si te animás a dar charlas en inglés lo podeś aclarar)
 - Ubicación (de dónde sos y dónde residís)
 
+A esta información podés sumarle lo que quieras, ejemplo, identidad de género, pronombre.
+
 ## Ejemplo de formato:
 
 ```markdown
