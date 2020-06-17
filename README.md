@@ -67,6 +67,14 @@ Es importante que indiques la siguiente información:
 - Ubicación - CABA, Buenos Aires, Argentina (oriunda de México)
 - Idiomas además del español - Inglés 
 
+#### Portas, Nayla 
+- [Twitter](https://www.twitter.com/nportas)
+- [Instagram](https://www.instagram.com/violetartec/)
+- [YouTube](https://www.youtube.com/channel/UCOYFSSdHHe93j9fyCWkyAzA)
+- Temas - Arte y tecnología, programación en Go, TDD, BDD, metodologías de desarrollo de software. 
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Inglés 
+
 #### Shokida, Natsumi 
 - [YouTube](https://www.youtube.com/watch?v=5qcDHdYxueI)
 - [Mail](mailto:natsumi.shokida@gmail.com)
