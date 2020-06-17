@@ -55,6 +55,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés, Italiano
 
+#### Cura Caram, Analía
+- [@AnaCuracaramba](http://twitter.com/AnaCuracaramba) 
+- [Mail](mailto:analiacuracaram@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/analiacuracaram)
+- Temas - Product discovery - Innovación - Cambiarse de carrera y sobrevivir - "Soy técnico o soy creativo? Very confundida" - "Me cansé del cine y me fuí para la informática, una historia de suspenso y romance"
+- Ubicación - Córdoba, Argentina
+
 #### Miguel, Estefanía
 - [@tefimiguel](http://twitter.com/tefimiguel)
 - Temas - Educación en tecnología, Inclusión tecnológica, Paradigmas de programación, TDD, Diseño de sistemas, Feminismo, Cyberdefensa
