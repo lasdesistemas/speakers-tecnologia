@@ -55,6 +55,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés, Italiano
 
+#### Castellucci, Ailin
+- [@AiluCastellucci](http://twitter.com/AiluCastellucci)
+- [Mail](mailto:acastellucci@protonmail.com)
+- Temas - Seguridad informática
+- Ubicación - Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Cintas, Celia  
 - [@RTFMCelia](http://twitter.com/RTFMCelia) 
 - [pyvideo](https://pyvideo.org/speaker/celia-cintas.html)
