@@ -71,6 +71,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Product discovery - Innovación - Cambiarse de carrera y sobrevivir - "Soy técnico o soy creativo? Very confundida" - "Me cansé del cine y me fuí para la informática, una historia de suspenso y romance"
 - Ubicación - Córdoba, Argentina
 
+#### Decuzzi, Gisela 
+- [Mail](mailto:giseladecuzzi@gmail.com)
+- [Charla performance web apps](https://www.youtube.com/watch?v=QTSBXwoXmpo)
+- Temas - Desarrollo en general: conceptos iniciales, arquitectura, arquitectura web, api rest, graphql, aspectos transversales (seguridad, performance, logs, monitoreo). Testing: estrategia de tesing, tipos de testing BDD, tests e2e, tests de integración. Metodologías, agilidad, horizontalidad / empresas horizontales
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+- Pronombre - ella/la
+
 #### Hadad, Carolina
 - [@carohadad](https://twitter.com/carohadad) 
 - [Sitio](http://carohadad.com/)
