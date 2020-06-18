@@ -55,6 +55,15 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés, Italiano
 
+#### Cintas, Celia  
+- [@RTFMCelia](http://twitter.com/RTFMCelia) 
+- [pyvideo](https://pyvideo.org/speaker/celia-cintas.html)
+- [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Celia.Cintas)
+- Temas - Machine Learning, Deep Learning, Image Processing
+- Ubicación Origen - Rawson, Argentina
+- Ubicación Residencia - Kenya, Nairobi
+- Idiomas además del español - Inglés
+
 #### Cura Caram, Analía
 - [@AnaCuracaramba](http://twitter.com/AnaCuracaramba) 
 - [Mail](mailto:analiacuracaram@gmail.com)
@@ -83,6 +92,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Arte y tecnología, programación en Go, TDD, BDD, metodologías de desarrollo de software. 
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés 
+
+#### Sclar, Melanie 
+- [Twitter](https://www.twitter.com/melaniesclar)
+- [Instagram](https://www.instagram.com/melaniesclar/)
+- [LinkedIn](https://www.linkedin.com/in/melanie-sclar-077047b5/)
+- Temas - Inteligencia Artificial y Ciencia de Datos. Más específicamente, tengo experiencia en Machine Learning, Natural Language Processing y un poco de visión (para una aplicación de neurociencia cognitiva).
+- Ubicación - Buenos Aires, Argentina
+- Idiomas además del español - Inglés, Portugués
 
 #### Shokida, Natsumi 
 - [YouTube](https://www.youtube.com/watch?v=5qcDHdYxueI)
