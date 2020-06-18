@@ -71,6 +71,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Product discovery - Innovación - Cambiarse de carrera y sobrevivir - "Soy técnico o soy creativo? Very confundida" - "Me cansé del cine y me fuí para la informática, una historia de suspenso y romance"
 - Ubicación - Córdoba, Argentina
 
+#### Hadad, Carolina
+- [@carohadad](https://twitter.com/carohadad) 
+- [Sitio](http://carohadad.com/)
+- [Medium](https://medium.com/@carohadad/)
+- Temas - Inclusión y Diversidad en Tecnología, Tecnología con Impacto Social
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Miguel, Estefanía
 - [@tefimiguel](http://twitter.com/tefimiguel)
 - Temas - Educación en tecnología, Inclusión tecnológica, Paradigmas de programación, TDD, Diseño de sistemas, Feminismo, Cyberdefensa
