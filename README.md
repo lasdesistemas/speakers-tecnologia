@@ -133,6 +133,16 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Comunidades de mujeres tech
 - Ubicación - Cali, Colombia
 
+### Cuba
+
+#### Armas, Lisandra
+- [@lisyarmas](https://twitter.com/lisyarmas)
+- [LinkedIn](https://www.linkedin.com/in/lisandra-armas-aguila/) 
+- [Charlas](https://www.youtube.com/playlist?list=PLXFpmeoqrLf8cHXknKexDUWwxVmkdNTFP)
+- Temas - Pruebas de accesibilidad en aplicaciones web y móviles, Pruebas de Usabilidad, Testing Exploratorio, Metodologías Ágiles.
+- Ubicación Origen - Matanzas, Cuba
+- Ubicación Residencia - Canelones, Uruguay
+
 ### México
 
 #### Contreras, Angélica
