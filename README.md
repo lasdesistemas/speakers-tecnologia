@@ -81,6 +81,7 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 #### Decuzzi, Gisela 
 - [Mail](mailto:giseladecuzzi@gmail.com)
 - [Charla performance web apps](https://www.youtube.com/watch?v=QTSBXwoXmpo)
+- [PPTs y charlas](https://linktr.ee/gdecuzzi)
 - Temas - Desarrollo en general: conceptos iniciales, arquitectura, arquitectura web, api rest, graphql, aspectos transversales (seguridad, performance, logs, monitoreo). Testing: estrategia de tesing, tipos de testing BDD, tests e2e, tests de integración. Metodologías, agilidad, horizontalidad / empresas horizontales
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés
