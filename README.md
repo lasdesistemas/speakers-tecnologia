@@ -78,6 +78,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Product discovery - Innovación - Cambiarse de carrera y sobrevivir - "Soy técnico o soy creativo? Very confundida" - "Me cansé del cine y me fuí para la informática, una historia de suspenso y romance"
 - Ubicación - Córdoba, Argentina
 
+#### D'Andrea, Florencia
+- [@cantoflor_87](http://twitter.com/cantoflor_87) 
+- [Sitio web](https://florencia.netlify.app/)
+- Temas - Ciencia de datos / comunidad de R / R (lenguaje) / talleres de R / programa de mentoreo de R-Ladies
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+- R-Ladies global team 
+
 #### Decuzzi, Gisela 
 - [Mail](mailto:giseladecuzzi@gmail.com)
 - [Charla performance web apps](https://www.youtube.com/watch?v=QTSBXwoXmpo)
