@@ -36,6 +36,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 
 ### Argentina
 
+#### Ación, Laura
+
+- [@_lacion_](https://twitter.com/_lacion_)
+- [Página web, incluyendo charlas anteriores](https://lacion.rbind.io)
+- Temas - Ciencia de Datos de Salud, Bioestadística, Educación Online, Comunidades de Práctica (por ejemplo, [MetaDocencia](https://metadocencia.org), [R-Ladies Global](https://rladies.org))
+- Ubicación - Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Alonso, Florencia 
 - [@flordefuega](https://www.instagram.com/flordefuega)
 - [Mail](mailto:floralonsoflor@gmail.com)
