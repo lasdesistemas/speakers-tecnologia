@@ -167,6 +167,15 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación Origen - Matanzas, Cuba
 - Ubicación Residencia - Canelones, Uruguay
 
+### Ecuador
+
+#### Crespo, Pamela 
+- [Mail](mailto:buganvillalab@gmail.com)
+- [Video Presentación](https://m.facebook.com/story.php?story_fbid=297528944967543&id=100714624648977)
+- Temas - Investigación y desarrollo de Productos / Hardware / innovación / fabricación digital 
+- Ubicación - Ecuador, Quiro
+- Idiomas además del español - Inglés
+
 ### México
 
 #### Contreras, Angélica
