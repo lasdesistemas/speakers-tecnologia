@@ -149,6 +149,15 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación Residencia - Luxemburgo, Esch-Sur-Alzette
 - Idiomas además del español - Inglés
 
+### Bolivia
+
+#### Apaza, Judith 
+- [Facebook](https://www.facebook.com/Kitradi)
+- [LinkedIn](https://www.linkedin.com/in/judithapaza)
+- Temas - Firma Digital, Transformación Digital, herramientas digitales para no-tecnólogos, herramientas digitales para detectar fake news.
+- Ubicación - Bolivia, La Paz
+- Idiomas además del español - Francés, Inglés
+
 ### Colombia
 
 #### Grijalba, Maya 
