@@ -158,6 +158,12 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - Bolivia, La Paz
 - Idiomas además del español - Francés, Inglés
 
+#### Morales, María
+- [Mail](mailto:marieta.moralesg@gmail.com)
+- Temas - Process automation y RpA. Transformación Digital.
+- Ubicación - Bolivia, La Paz
+- Idiomas además del español - Inglés
+
 ### Colombia
 
 #### Grijalba, Maya 
