@@ -188,7 +188,15 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - [Mail](mailto:buganvillalab@gmail.com)
 - [Video Presentación](https://m.facebook.com/story.php?story_fbid=297528944967543&id=100714624648977)
 - Temas - Investigación y desarrollo de Productos / Hardware / innovación / fabricación digital 
-- Ubicación - Ecuador, Quiro
+- Ubicación - Ecuador, Quito
+- Idiomas además del español - Inglés
+
+#### Sánchez, Alejandra	
+- [Mail](mailto:aleja.sanchezm@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alejandrasanchezmontenegro/)
+- Temas - Realidad aumentada, Ciencias del comportamiento (Behavioural sciences), Motivación
+- Ubicación Origen - Ecuador, Quito
+- Ubicación Residencia - Santa Rosa, La Pampa - Argentina
 - Idiomas además del español - Inglés
 
 ### México
