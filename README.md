@@ -63,6 +63,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés, Italiano
 
+#### Brites, Silvina Soledad
+- [Mail](mailto:Silvina.brites@bue.edu.ar)
+- [LinkedIn](https://www.linkedin.com/in/silvina-s-brites)
+- Temas - Prácticas Profesionalizantes, Educación, Género, Educación Técnico Profesional, Proyectos educativo, Educación Sexual Integral, Gestión pública y desarrollo gubernamental, Formación docente, Gestión de equipos de trabajo, Género y ETP.
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Portugués
+
 #### Castellucci, Ailin
 - [@AiluCastellucci](http://twitter.com/AiluCastellucci)
 - [Mail](mailto:acastellucci@protonmail.com)
