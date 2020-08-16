@@ -104,7 +104,7 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 #### Dahl, Verónica
 - [Linkedin](https://www.linkedin.com/in/veronica-dahl-9014065/)
 - [@VerunicaDahl](http://twitter.com/VerunicaDahl)
-- Temas - IA, Generacion automática de gramáticas - Gramáticas lógicas - Lingüística computacional - Bases de datos inferenciales - Programación lógica - PROLOG - CHR (Constraint Handling Rules) - IA Regenerativa (proyectos de AI que sirvan para regenerar la cooperacion pro-social y los recursos del planeta) - Feminismo de Datos.
+- Temas - IA, Generacion automática de gramáticas - Gramáticas lógicas - Lingüística computacional - Bases de datos inferenciales - Programación lógica - PROLOG - CHR (Constraint Handling Rules) - IA Regenerativa (proyectos de AI que sirvan para regenerar la cooperacion pro-social y los recursos del planeta) - Feminismo de Datos - Razonamientos no clásicos: abducción, razonamiento hipotético.
 - Ubicación - Vancouver, Canadá
 - Idiomas además del español - Francés e inglés
 
