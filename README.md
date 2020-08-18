@@ -77,6 +77,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - Buenos Aires, Argentina
 - Idiomas además del español - Inglés
 
+#### Cillo, Vanesa
+- [LinkedIn](https://www.linkedin.com/in/vanesacillo/)
+- [Mail](mailto:vcillo@gmail.com)
+- Temas - Women Management, Career Development (desarrollo de carrera), Women Mentorship (mentoreo de mujeres)
+- Ubicación - Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Cintas, Celia  
 - [@RTFMCelia](http://twitter.com/RTFMCelia) 
 - [pyvideo](https://pyvideo.org/speaker/celia-cintas.html)
