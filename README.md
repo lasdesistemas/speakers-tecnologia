@@ -124,6 +124,16 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Idiomas además del español - Inglés
 - Pronombre - ella/la
 
+#### Franco, Maria Angeles 
+- [Mail](mailto:angels.franco.arq@gmail.com)
+- [@4ngelesfr4nco](https://www.instagram.com/4ngelesfr4nco/)
+- [@generativamateria](https://www.instagram.com/generativamateria/)
+- [@lab.arq.receptiva](https://www.instagram.com/lab.arq.receptiva/)
+- [@catedratd2](https://www.instagram.com/catedratd2/)
+- Temas - Fabricación digital, Biomateriales, Códios creativos para planos interactivos, Tecnología y educación
+- Ubicación - Tucumán, Argentina
+- Idiomas además del español - Inglés
+
 #### Hadad, Carolina
 - [@carohadad](https://twitter.com/carohadad) 
 - [Sitio](http://carohadad.com/)
