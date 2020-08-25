@@ -142,6 +142,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés
 
+#### Juarez, Mariana
+- [Mail](mailto:marianaju89@gmail.com)
+- [@no_tan__mariana___________](https://www.instagram.com/no_tan__mariana___________) 
+- [@lab.arq.receptiva](https://www.instagram.com/lab.arq.receptiva/)
+- Temas - Arte y Tecnología
+- Ubicación - Tucumán, Argentina
+- Idiomas además del español - Inglés
+
 #### Miguel, Estefanía
 - [@tefimiguel](http://twitter.com/tefimiguel)
 - Temas - Educación en tecnología, Inclusión tecnológica, Paradigmas de programación, TDD, Diseño de sistemas, Feminismo, Cyberdefensa
