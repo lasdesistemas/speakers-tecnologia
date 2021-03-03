@@ -197,6 +197,15 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - Bolivia, La Paz
 - Idiomas además del español - Francés, Inglés
 
+#### Canaviri, Lupe
+- [Mail](mailto:lupemaydana@gmail.com)
+- [@luucamay_](http://twitter.com/luucamay_)
+- [Slides](https://slides.com/luucamay)
+- Temas - Tecnologías web, feminismo, mujeres en tecnología, aprender a aprender y arte y tecnología.
+- Idiomas además del español - Inglés
+- Ubicación - Bolivia, La Paz
+- Pronombres: She/Her
+
 #### Morales, María
 - [Mail](mailto:marieta.moralesg@gmail.com)
 - Temas - Process automation y RpA. Transformación Digital.
