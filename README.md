@@ -149,6 +149,14 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés
 
+#### Guimarey, Anabella
+- [Sitio](www.anabellag7.com)
+- [Mail](mailto:anabellag7@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/anabellaguimarey/)
+- Temas - Project Management, Cambio de carrera a sistemas, Gestion de proyectos de Software y IT
+- Ubicación - CABA, Buenos Aires, Argentina
+- Idiomas además del español - Inglés
+
 #### Juarez, Mariana
 - [Mail](mailto:marianaju89@gmail.com)
 - [@no_tan__mariana___________](https://www.instagram.com/no_tan__mariana___________) 
@@ -170,6 +178,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Temas - Arte, Ciencia y tecnología, Arte y Ecología, Bioarte, Comunicación interespecies
 - Ubicación - CABA, Buenos Aires, Argentina (oriunda de México)
 - Idiomas además del español - Inglés 
+
+#### Nenning, Liz Dahiana
+- [Mail](mailto:dg.ndliz@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/liz-nenning-ux-ui)
+- Temas - Ética en UX, Accesibilidad
+- Ubicación Origen - Formosa, Argentina
+- Ubicación Residencia - Buenos Aires, Argentina
 
 #### Portas, Nayla 
 - [Twitter](https://www.twitter.com/nportas)
