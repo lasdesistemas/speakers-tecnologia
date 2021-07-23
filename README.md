@@ -135,7 +135,6 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Idiomas además del español - Inglés
 
 #### Gorgal Macarena 
-- WhatsApp: +541153183221
 - [@macagorgal](https://www.instagram.com/macagorgal/) 
 - Temas - Liderazgo femenino en proyectos IT | Management con perspectiva de género | Mentoría con perspectiva de género | Impacto social de los sistemas de información en la gestión pública | Inclusión femenina en el mundo IT |  Políticas públicas basadas en evidencia 
 - Ubicación - San Isidro, Argentina
