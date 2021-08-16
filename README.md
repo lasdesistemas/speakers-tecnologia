@@ -193,6 +193,13 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - CABA, Buenos Aires, Argentina
 - Idiomas además del español - Inglés 
 
+#### Rosenthal, Alicia 
+- [LinkedIn](https://www.linkedin.com/in/aliciarosenthal/)
+- [Instagram](https://www.instagram.com/alismotion/)
+- [Facebook](https://www.facebook.com/estudioaliciarosenthal)
+- Temas - Educación en tecnología, Manejo de clientes, Realidad Aumentada, Autoestima.
+- Ubicación - Aldo Bonzi, Buenos Aires, Argentina
+
 #### Sclar, Melanie 
 - [Twitter](https://www.twitter.com/melaniesclar)
 - [Instagram](https://www.instagram.com/melaniesclar/)
