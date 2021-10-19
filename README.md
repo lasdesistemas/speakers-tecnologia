@@ -77,6 +77,12 @@ A esta información podés sumarle lo que quieras, ejemplo, identidad de género
 - Ubicación - Buenos Aires, Argentina
 - Idiomas además del español - Inglés
 
+#### Chaves, Anahi 
+- [Material](https://www.youtube.com/watch?v=nqsLCfy4mF8)
+- [Mail](mailto:mujeresxingenieria@gmail.com)
+- Temas - Ingeniería Química-Nanoparticulas-Energia Termosolar-Sistemas de Gestión de Calidad ISO 9001-Mujeres STEM
+- Ubicación - Jujuy, Argentina
+
 #### Cillo, Vanesa
 - [LinkedIn](https://www.linkedin.com/in/vanesacillo/)
 - [Mail](mailto:vcillo@gmail.com)
